@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #d6d4;
+    font-family: 'san-serif';
+    
+}
+.title{
+    height: 100px;
+    width: 50%;
+    background-color: #622569;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    transition: 5s;
+}
+.head{
+    padding: 27px;
+    text-align: center;
+}
+.img{
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+    width: 200px;
+}
+.track{
+    color: maroon;
+    letter-spacing: 2px;
+    font-size: 2em;
+    font-family: 'freestyle script';
+}
+.lyrics{
+    color: grey;
+}
+.music-player{
+    padding: 20px;
+}
